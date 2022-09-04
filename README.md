@@ -2,7 +2,7 @@
 
 Big Data and Cloud Computing Course Submission
 
-See full report [HERE]()
+See full report [HERE](https://github.com/mbdelaresma/covid-ct-scan-images/blob/main/main.ipynb)
 
 # Executive Summary
 
